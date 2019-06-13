@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity  {
 
     private void launchActivity() {
 
-        Intent intent = new Intent(this, Courses.class);
+        Intent intent = new Intent(this, Profile.class);
         startActivity(intent);
     }
     private  void launch1(){
